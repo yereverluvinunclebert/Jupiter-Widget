@@ -4,12 +4,14 @@ Steampunk Jupiter Desktop Yahoo Widget, written in Javascript and XML for the Ya
 Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ as well as the 
 Apple Mac.
 
-![earthMarble](https://github.com/yereverluvinunclebert/Earth-Desktop-Widget/assets/2788342/71abaa69-352f-4068-abf2-ea8997d300e6)
+![jupiterImage](https://github.com/yereverluvinunclebert/Jupiter-Widget/assets/2788342/82487ced-9382-4c0e-9c22-25be342c545e)
 
 This Jupiter Desktop Widget is an attractive dieselpunk Yahoo widget for your 
 desktop. This Konfabulator/ yahoo widget provides a simple static marble globe. 
 Functional and gorgeous at the same time. This Widget is a moveable widget that 
 you can move anywhere around the desktop as you require.
+
+![Uploading orrery-desktop.png…]()
 
 The others are the 'God of War', the planet Mars, Saturn and of course, the Earth. 
 Double-clicking on the planet will cause a personalised Windows/Mac application 
