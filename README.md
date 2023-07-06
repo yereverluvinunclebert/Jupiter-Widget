@@ -11,12 +11,18 @@ desktop. This Konfabulator/ yahoo widget provides a simple static marble globe.
 Functional and gorgeous at the same time. This Widget is a moveable widget that 
 you can move anywhere around the desktop as you require.
 
+The others are the 'God of War', the planet Mars, Saturn and of course, the Earth. 
+Double-clicking on the planet will cause a personalised Windows/Mac application 
+to fire up. The first time you run it there will be no assigned function and so 
+it will state as such - then it will pop up the preferences so that you can enter 
+the command of your choice. The widget takes command line-style commands for
+windows or Mac OS/X.
+
 All javascript widgets need an engine to function, in this case the widget uses 
 the Yahoo Widget Konfabulator engine. The engine interprets the javascript and 
 creates the widget according to the XML description and using the images you 
 provide. Designed and built by me.
 
-![orrery-desktop](https://github.com/yereverluvinunclebert/Earth-Desktop-Widget/assets/2788342/bf22154b-4e74-4529-8b00-98247cd47b10)
 
 Built using: 
 
